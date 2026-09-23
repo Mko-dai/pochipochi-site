@@ -1,0 +1,5 @@
+body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;max-width:720px;margin:0 auto;padding:24px 16px 64px;line-height:1.75;color:#222}
+h1{font-size:1.6rem}h2{font-size:1.15rem;margin-top:2em;border-bottom:1px solid #eee;padding-bottom:4px}
+.draft{background:#fff3cd;border:1px solid #e0c36b;padding:8px 12px;border-radius:6px}
+nav a{margin-right:12px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #ddd;padding:6px 8px;text-align:left;vertical-align:top}
+.lang{margin-top:3em;padding-top:1em;border-top:3px double #ddd}
